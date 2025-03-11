@@ -6,6 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+    path: Assets/Settings/Scenes/Menu.unity
+    guid: ea74ceee20f9b5649a1fbc6d1159b6f0
+  - enabled: 1
+    path: Assets/Settings/Scenes/Fase1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Settings/Scenes/Fase2.unity
+    guid: 92be3cfdd800f8b489e4c71a14bfd5df
+  - enabled: 1
+    path: Assets/Settings/Scenes/Derrota.unity
+    guid: 3e2c3524c34802e4cb5d9c7cd59d899e
+  - enabled: 1
+    path: Assets/Settings/Scenes/Vitoria.unity
+    guid: 8b9fe95d8e00fd24e993dea1b54998e1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
